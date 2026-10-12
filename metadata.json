@@ -1,0 +1,6 @@
+{
+  "name": "Student's Headcount",
+  "description": "AI-based head counting system for classroom and group photographs with real-time detection, bounding boxes, and analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
